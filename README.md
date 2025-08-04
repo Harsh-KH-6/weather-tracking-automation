@@ -190,4 +190,4 @@ Feel free to contribute to this project by:
 
 ---
 
-**Happy Weather Tracking! 🌤️📊** 
+**Happy Weather Tracking! 🌤️📊**
