@@ -46,6 +46,10 @@ git push -u origin main
 pip install -r requirements.txt
 
 # Set your API key as environment variable
+# Windows PowerShell:
+$env:WEATHER_API_KEY="your_actual_api_key_here"
+
+# Linux/Mac:
 export WEATHER_API_KEY="your_actual_api_key_here"
 
 # Run the test script
@@ -68,12 +72,20 @@ python log_weather.py
 ✅ **Daily**: 5 automated weather updates with meaningful commits
 ✅ **Ongoing**: Growing weather_log.csv with historical data
 
+## 🔒 Security Notes
+
+- **Never commit your API key** to the repository
+- **Use GitHub Secrets** for production deployment
+- **Keep your API key private** and secure
+- **Rotate keys regularly** for better security
+
 ## Troubleshooting
 
 ### API Key Issues
 - Ensure the API key is correctly copied (no extra spaces)
 - Check that the secret name is exactly `WEATHER_API_KEY`
 - Verify your OpenWeatherMap account is active
+- **New API keys take 2-4 hours to activate** - this is normal
 
 ### Workflow Not Running
 - Check if GitHub Actions are enabled for the repository

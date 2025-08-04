@@ -47,13 +47,18 @@ The weather data is stored in `weather_log.csv` with the following columns:
    - `requirements.txt` - Python dependencies
    - `.gitignore` - Git ignore rules
 
-2. **Set up GitHub Secrets**:
+2. **Get OpenWeatherMap API Key**:
+   - Sign up at [OpenWeatherMap](https://openweathermap.org/api)
+   - Get your free API key (takes 2-4 hours to activate)
+   - Keep your API key secure and never commit it to the repository
+
+3. **Set up GitHub Secrets**:
    - Go to your repository → Settings → Secrets and variables → Actions
    - Add a new repository secret:
      - **Name**: `WEATHER_API_KEY`
      - **Value**: Your OpenWeatherMap API key
 
-3. **Enable GitHub Actions**:
+4. **Enable GitHub Actions**:
    - The workflow will automatically start running on the scheduled times
    - You can also manually trigger it from the Actions tab
 
@@ -66,6 +71,10 @@ To test the script locally:
 pip install -r requirements.txt
 
 # Set environment variable (replace with your actual API key)
+# Windows PowerShell:
+$env:WEATHER_API_KEY="your_api_key_here"
+
+# Linux/Mac:
 export WEATHER_API_KEY="your_api_key_here"
 
 # Run the script
@@ -132,14 +141,22 @@ This automation creates meaningful commits that:
 - Demonstrate automated data collection skills
 - Provide valuable weather tracking data
 
+## 🔒 Security
+
+- **API Key Protection**: Never commit your API key to the repository
+- **Environment Variables**: Use GitHub Secrets for production deployment
+- **Local Testing**: Use environment variables for local development
+- **Key Rotation**: Regularly update your API keys for security
+
 ## 🛠️ Troubleshooting
 
 ### Common Issues
 
 1. **API Key Not Set**: Ensure `WEATHER_API_KEY` is properly configured in GitHub Secrets
-2. **Workflow Not Running**: Check if GitHub Actions are enabled for the repository
-3. **No Commits Being Made**: The workflow only commits when there are actual changes to the CSV file
-4. **API Rate Limits**: OpenWeatherMap free tier has limits; consider upgrading if needed
+2. **API Key Not Activated**: New OpenWeatherMap API keys take 2-4 hours to activate
+3. **Workflow Not Running**: Check if GitHub Actions are enabled for the repository
+4. **No Commits Being Made**: The workflow only commits when there are actual changes to the CSV file
+5. **API Rate Limits**: OpenWeatherMap free tier has limits; consider upgrading if needed
 
 ### Debugging
 
