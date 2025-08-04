@@ -1,0 +1,6 @@
+timestamp,city,temperature,weather,description
+2024-01-15 14:30:00,Mumbai,28.5,Clouds,scattered clouds
+2024-01-15 14:30:00,Hyderabad,32.1,Clear,clear sky
+2024-01-15 14:30:00,Delhi,25.8,Smoke,haze
+2024-01-15 14:30:00,Chennai,30.2,Clouds,broken clouds
+2024-01-15 14:30:00,Kolkata,27.9,Rain,light rain 
