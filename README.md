@@ -148,21 +148,7 @@ This automation creates meaningful commits that:
 - **Local Testing**: Use environment variables for local development
 - **Key Rotation**: Regularly update your API keys for security
 
-## 🛠️ Troubleshooting
 
-### Common Issues
-
-1. **API Key Not Set**: Ensure `WEATHER_API_KEY` is properly configured in GitHub Secrets
-2. **API Key Not Activated**: New OpenWeatherMap API keys take 2-4 hours to activate
-3. **Workflow Not Running**: Check if GitHub Actions are enabled for the repository
-4. **No Commits Being Made**: The workflow only commits when there are actual changes to the CSV file
-5. **API Rate Limits**: OpenWeatherMap free tier has limits; consider upgrading if needed
-
-### Debugging
-
-- Check the Actions tab in your GitHub repository for workflow logs
-- The script provides detailed console output for debugging
-- Failed API calls are logged but don't stop the entire process
 
 ## 📊 Data Analysis
 
