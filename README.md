@@ -133,13 +133,7 @@ schedule:
   # Format: minute hour day month day-of-week
 ```
 
-## 📈 Contribution Graph Impact
 
-This automation creates meaningful commits that:
-- Update your GitHub contribution graph
-- Show consistent activity patterns
-- Demonstrate automated data collection skills
-- Provide valuable weather tracking data
 
 ## 🔒 Security
 
