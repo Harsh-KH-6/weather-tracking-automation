@@ -1,7 +1,6 @@
 # 🌤️ Weather Tracking Automation
 
-An automated weather data collection system that tracks weather conditions for major Indian cities and logs the data to a GitHub repository using GitHub Actions. This project helps maintain an active contribution graph while collecting valuable weather data.
-
+An automated weather data collection system that tracks weather conditions for major Indian cities and logs the data to a GitHub repository using GitHub Actions.
 ## 📊 Tracked Cities
 
 The system monitors weather conditions for the following Indian cities:
