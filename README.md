@@ -21,17 +21,21 @@ The system monitors weather conditions for the following Indian cities:
 - **Error Handling**: Graceful handling of API failures and network issues
 - **Metric Units**: Temperature in Celsius for consistency
 
+---
+
 ## 📋 Data Structure
 
 The weather data is stored in `weather_log.csv` with the following columns:
 
 | Column | Description | Example |
 |--------|-------------|---------|
-| `timestamp` | Date and time of data collection | `2024-01-15 14:30:00` |
+| `timestamp` | Date and time of data collection | `2024-08-05 14:30:00` |
 | `city` | City name | `Mumbai` |
 | `temperature` | Temperature in Celsius | `28.5` |
 | `weather` | Weather condition | `Clouds` |
 | `description` | Detailed weather description | `scattered clouds` |
+
+---
 
 ## ⚙️ Setup Instructions
 
@@ -63,6 +67,8 @@ The weather data is stored in `weather_log.csv` with the following columns:
    - The workflow will automatically start running on the scheduled times
    - You can also manually trigger it from the Actions tab
 
+---
+
 ### Manual Testing
 
 To test the script locally:
@@ -82,6 +88,8 @@ export WEATHER_API_KEY="your_api_key_here"
 python log_weather.py
 ```
 
+---
+
 ## 🕐 Schedule
 
 The automation runs **5 times daily** at the following times (IST):
@@ -92,6 +100,8 @@ The automation runs **5 times daily** at the following times (IST):
 - **10:00 PM** - Night conditions
 
 *Note: Times are converted to UTC for GitHub Actions scheduling*
+
+---
 
 ## 📁 Project Structure
 
@@ -106,6 +116,8 @@ Weather_Repo/
     └── workflows/
         └── weather.yml        # GitHub Actions workflow
 ```
+
+---
 
 ## 🔧 Configuration
 
@@ -134,7 +146,7 @@ schedule:
   # Format: minute hour day month day-of-week
 ```
 
-
+---
 
 ## 🔒 Security
 
@@ -143,7 +155,7 @@ schedule:
 - **Local Testing**: Use environment variables for local development
 - **Key Rotation**: Regularly update your API keys for security
 
-
+---
 
 ## 📊 Data Analysis
 
