@@ -1,6 +1,8 @@
 # 🌤️ Weather Tracking Automation
 
 An automated weather data collection system that tracks weather conditions for major Indian cities and logs the data to a GitHub repository using GitHub Actions.
+
+---
 ## 📊 Tracked Cities
 
 The system monitors weather conditions for the following Indian cities:
@@ -10,12 +12,12 @@ The system monitors weather conditions for the following Indian cities:
 - **Chennai** - Gateway to South India
 - **Kolkata** - Cultural capital
 
+---
 ## 🚀 Features
 
 - **Automated Data Collection**: Runs 5 times daily via GitHub Actions
 - **Real-time Weather Data**: Fetches current weather using OpenWeatherMap API
 - **Structured Data Storage**: Logs data in CSV format with timestamps
-- **Contribution Graph Updates**: Creates meaningful commits for GitHub profile
 - **Error Handling**: Graceful handling of API failures and network issues
 - **Metric Units**: Temperature in Celsius for consistency
 
