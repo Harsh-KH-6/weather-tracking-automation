@@ -166,6 +166,8 @@ The collected weather data can be used for:
 - Data science projects
 - API integration examples
 
+---
+
 ## 🤝 Contributing
 
 Feel free to contribute to this project by:
@@ -174,6 +176,8 @@ Feel free to contribute to this project by:
 - Enhancing data visualization
 - Adding new weather metrics
 - Optimizing the automation schedule
+
+---
 
 ## 🙏 Acknowledgments
 
