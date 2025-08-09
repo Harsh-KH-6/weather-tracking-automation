@@ -67,7 +67,6 @@ The weather data is stored in `weather_log.csv` with the following columns:
    - The workflow will automatically start running on the scheduled times
    - You can also manually trigger it from the Actions tab
 
----
 
 ### Manual Testing
 
