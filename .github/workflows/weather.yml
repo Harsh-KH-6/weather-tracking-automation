@@ -32,8 +32,8 @@ jobs:
       
     - name: Configure Git
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.email "ugs23042_it.harsh@cbit.org.in"
+        git config --local user.name "Harsh"
         
     - name: Commit and push changes
       run: |
@@ -63,4 +63,4 @@ jobs:
           git push
           
           echo "✅ Successfully committed and pushed weather data"
-        fi 
+        fi
