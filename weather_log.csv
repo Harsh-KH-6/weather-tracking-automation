@@ -305,3 +305,8 @@ timestamp,city,temperature,weather,description
 2025-08-17 13:01:20,Delhi,28.05,Mist,mist
 2025-08-17 13:01:21,Chennai,29.11,Clouds,overcast clouds
 2025-08-17 13:01:21,Kolkata,27.97,Haze,haze
+2025-08-17 16:43:11,Mumbai,26.99,Mist,mist
+2025-08-17 16:43:11,Hyderabad,24.23,Rain,moderate rain
+2025-08-17 16:43:11,Delhi,28.05,Mist,mist
+2025-08-17 16:43:11,Chennai,24.99,Drizzle,light intensity drizzle
+2025-08-17 16:43:11,Kolkata,28.97,Haze,haze
