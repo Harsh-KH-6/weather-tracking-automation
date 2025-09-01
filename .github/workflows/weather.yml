@@ -32,8 +32,8 @@ jobs:
       
     - name: Configure Git
       run: |
-        git config --local user.email "ugs23042_it.harsh@cbit.org.in"
-        git config --local user.name "Harsh"
+        git config --local user.email "harshexample@gmail.com"
+        git config --local user.name "Harsh bot"
         
     - name: Commit and push changes
       run: |
