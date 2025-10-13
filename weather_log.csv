@@ -1720,3 +1720,8 @@ timestamp,city,temperature,weather,description
 2025-10-13 04:40:15,Delhi,28.98,Clear,clear sky
 2025-10-13 04:40:15,Chennai,30.16,Clouds,few clouds
 2025-10-13 04:40:15,Kolkata,30.06,Clear,clear sky
+2025-10-13 08:45:43,Mumbai,32.99,Smoke,smoke
+2025-10-13 08:45:43,Hyderabad,28.23,Haze,haze
+2025-10-13 08:45:43,Delhi,31.05,Haze,haze
+2025-10-13 08:45:44,Chennai,30.77,Mist,mist
+2025-10-13 08:45:44,Kolkata,31.97,Haze,haze
