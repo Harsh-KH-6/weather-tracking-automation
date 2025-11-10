@@ -2415,3 +2415,8 @@ timestamp,city,temperature,weather,description
 2025-11-10 02:22:24,Delhi,13.05,Mist,mist
 2025-11-10 02:22:24,Chennai,26.82,Mist,mist
 2025-11-10 02:22:25,Kolkata,21.97,Mist,mist
+2025-11-10 04:44:04,Mumbai,26.99,Smoke,smoke
+2025-11-10 04:44:04,Hyderabad,25.23,Haze,haze
+2025-11-10 04:44:04,Delhi,18.05,Smoke,smoke
+2025-11-10 04:44:04,Chennai,29.09,Mist,mist
+2025-11-10 04:44:04,Kolkata,25.97,Haze,haze
