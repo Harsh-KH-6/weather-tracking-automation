@@ -2910,3 +2910,8 @@ timestamp,city,temperature,weather,description
 2025-11-29 16:42:17,Delhi,16.05,Haze,haze
 2025-11-29 16:42:17,Chennai,23.27,Rain,heavy intensity rain
 2025-11-29 16:42:17,Kolkata,20.97,Haze,haze
+2025-11-30 02:30:55,Mumbai,22.99,Smoke,smoke
+2025-11-30 02:30:55,Hyderabad,19.23,Mist,mist
+2025-11-30 02:30:56,Delhi,11.05,Mist,mist
+2025-11-30 02:30:56,Chennai,24.23,Drizzle,drizzle
+2025-11-30 02:30:56,Kolkata,19.97,Mist,mist
