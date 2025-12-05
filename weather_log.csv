@@ -3040,3 +3040,8 @@ timestamp,city,temperature,weather,description
 2025-12-05 02:21:43,Delhi,8.05,Mist,mist
 2025-12-05 02:21:43,Chennai,25.28,Mist,mist
 2025-12-05 02:21:43,Kolkata,18.97,Haze,haze
+2025-12-05 04:46:26,Mumbai,28.99,Smoke,smoke
+2025-12-05 04:46:26,Hyderabad,24.23,Haze,haze
+2025-12-05 04:46:26,Delhi,15.05,Haze,haze
+2025-12-05 04:46:26,Chennai,26.95,Mist,mist
+2025-12-05 04:46:26,Kolkata,22.97,Haze,haze
