@@ -3670,3 +3670,8 @@ timestamp,city,temperature,weather,description
 2025-12-30 04:54:38,Delhi,11.05,Fog,fog
 2025-12-30 04:54:38,Chennai,26.7,Mist,mist
 2025-12-30 04:54:38,Kolkata,14.97,Mist,mist
+2025-12-30 08:48:38,Mumbai,29.99,Smoke,smoke
+2025-12-30 08:48:38,Hyderabad,27.23,Haze,haze
+2025-12-30 08:48:38,Delhi,17.05,Smoke,smoke
+2025-12-30 08:48:38,Chennai,28.94,Haze,haze
+2025-12-30 08:48:38,Kolkata,19.97,Haze,haze
