@@ -3960,3 +3960,8 @@ timestamp,city,temperature,weather,description
 2026-01-10 16:44:04,Delhi,10.05,Mist,mist
 2026-01-10 16:44:04,Chennai,23.07,Mist,mist
 2026-01-10 16:44:04,Kolkata,18.97,Haze,haze
+2026-01-11 02:41:12,Mumbai,21.99,Smoke,smoke
+2026-01-11 02:41:12,Hyderabad,18.23,Haze,haze
+2026-01-11 02:41:13,Delhi,5.05,Fog,fog
+2026-01-11 02:41:13,Chennai,21.91,Mist,mist
+2026-01-11 02:41:13,Kolkata,15.97,Mist,mist
