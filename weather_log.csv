@@ -5040,3 +5040,8 @@ timestamp,city,temperature,weather,description
 2026-02-23 03:22:31,Delhi,17.05,Mist,mist
 2026-02-23 03:22:31,Chennai,27.13,Mist,mist
 2026-02-23 03:22:31,Kolkata,23.97,Fog,fog
+2026-02-23 05:45:50,Mumbai,32.99,Smoke,smoke
+2026-02-23 05:45:50,Hyderabad,28.23,Haze,haze
+2026-02-23 05:45:50,Delhi,25.05,Haze,haze
+2026-02-23 05:45:50,Chennai,30.31,Clouds,scattered clouds
+2026-02-23 05:45:50,Kolkata,28.97,Smoke,smoke
