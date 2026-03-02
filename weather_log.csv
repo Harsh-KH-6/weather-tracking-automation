@@ -5220,3 +5220,8 @@ timestamp,city,temperature,weather,description
 2026-03-02 05:31:45,Delhi,24.05,Haze,haze
 2026-03-02 05:31:45,Chennai,30.42,Haze,haze
 2026-03-02 05:31:45,Kolkata,28.97,Haze,haze
+2026-03-02 09:04:06,Mumbai,29.99,Smoke,smoke
+2026-03-02 09:04:06,Hyderabad,33.23,Haze,haze
+2026-03-02 09:04:06,Delhi,29.05,Haze,haze
+2026-03-02 09:04:06,Chennai,32.55,Haze,haze
+2026-03-02 09:04:06,Kolkata,32.97,Haze,haze
