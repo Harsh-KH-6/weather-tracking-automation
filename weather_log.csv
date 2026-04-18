@@ -6385,3 +6385,8 @@ timestamp,city,temperature,weather,description
 2026-04-17 17:11:44,Delhi,34.71,Clear,clear sky
 2026-04-17 17:11:44,Chennai,28.55,Clouds,overcast clouds
 2026-04-17 17:11:44,Kolkata,28.14,Clear,clear sky
+2026-04-18 03:32:41,Mumbai,30.36,Clouds,overcast clouds
+2026-04-18 03:32:41,Hyderabad,33.35,Clouds,broken clouds
+2026-04-18 03:32:41,Delhi,32.61,Clouds,overcast clouds
+2026-04-18 03:32:41,Chennai,31.17,Clouds,overcast clouds
+2026-04-18 03:32:41,Kolkata,33.73,Clouds,broken clouds
