@@ -6545,3 +6545,8 @@ timestamp,city,temperature,weather,description
 2026-04-24 06:22:26,Delhi,38.05,Clear,clear sky
 2026-04-24 06:22:26,Chennai,35.16,Clouds,scattered clouds
 2026-04-24 06:22:26,Kolkata,33.97,Haze,haze
+2026-04-24 09:58:04,Mumbai,34.99,Smoke,smoke
+2026-04-24 09:58:04,Hyderabad,38.23,Clouds,few clouds
+2026-04-24 09:58:04,Delhi,41.05,Clear,clear sky
+2026-04-24 09:58:04,Chennai,34.41,Clouds,few clouds
+2026-04-24 09:58:04,Kolkata,35.97,Haze,haze
