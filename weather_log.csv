@@ -7040,3 +7040,8 @@ timestamp,city,temperature,weather,description
 2026-05-14 15:00:59,Delhi,34.05,Haze,haze
 2026-05-14 15:00:59,Chennai,30.59,Mist,mist
 2026-05-14 15:00:59,Kolkata,29.97,Haze,haze
+2026-05-14 18:12:25,Mumbai,29.99,Haze,haze
+2026-05-14 18:12:25,Hyderabad,30.73,Clouds,scattered clouds
+2026-05-14 18:12:25,Delhi,33.05,Haze,haze
+2026-05-14 18:12:26,Chennai,30.5,Mist,mist
+2026-05-14 18:12:26,Kolkata,28.97,Haze,haze
