@@ -8715,3 +8715,8 @@ timestamp,city,temperature,weather,description
 2026-08-01 10:12:52,Delhi,35.75,Clouds,overcast clouds
 2026-08-01 10:12:52,Chennai,33.32,Clouds,overcast clouds
 2026-08-01 10:12:52,Kolkata,32.25,Rain,light rain
+2026-08-01 14:02:50,Mumbai,28.36,Rain,moderate rain
+2026-08-01 14:02:50,Hyderabad,27.5,Clouds,overcast clouds
+2026-08-01 14:02:50,Delhi,34.21,Clouds,overcast clouds
+2026-08-01 14:02:50,Chennai,30.11,Rain,light rain
+2026-08-01 14:02:50,Kolkata,28.99,Clouds,overcast clouds
